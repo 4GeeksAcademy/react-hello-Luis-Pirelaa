@@ -10,3 +10,25 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.Counter div{
+    display: inline-block;
+    font-size: 85px;
+    line-height: 70px;
+    background-color: rgb(24, 24, 24) !important;
+    color: white;
+    padding: 20px;
+    margin: 8px;
+    border-radius: 10px;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: rgb(37, 37, 37);
+    font-family: ui-monospace;
+    font-weight: 700;
+
+}
+
+.Counter {
+    text-align: center;
+    background-color: black;
+}
